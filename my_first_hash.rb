@@ -13,7 +13,7 @@ def retrieval
                   "oil paintings" => 3
                  }
 
-  # 
+  hash = {"oil paintings" => "value"
 
 end
 
